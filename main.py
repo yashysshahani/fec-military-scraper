@@ -16,8 +16,8 @@ from parsel import Selector
 # %%
 
 # linkedin login
-USERNAME = "yashshahani@live.com"
-PASSWORD = "stanford"
+USERNAME = ""
+PASSWORD = ""
 
 # TAGS
 army_tags = [
